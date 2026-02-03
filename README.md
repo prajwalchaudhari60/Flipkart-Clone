@@ -1,3 +1,3 @@
-## 📊 Project Dashboard
+## 🛒 Flipkart Clone Demo
 
-![Dashboard Preview](assets\Flipkart_clone.gif)
+![Flipkart Clone Demo](assets/Flipkart_clone.gif)
